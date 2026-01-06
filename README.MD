@@ -6,7 +6,6 @@ STRIPE_WEBHOOK_SECRET=whsec_c30f187002723867aa286cfffd73f6dc92a6a9f3481783be1d50
 MONGO_URI=mongodb+srv://rakesh:MyPass123@cluster0.bt3rm.mongodb.net/myDatabase?retryWrites=true&w=majority
 
 STRIPE_SECRET_KEY  =  "sk_test_51SmSYL0YEGm67r4eFTUHgY7NZiNSBcVrs663dnobMEo28j0VOnjgm8BdicLvuTkJKnjrhqqdycdewxXoTIbPqe8M00FdQ3D5ut"
-PORT= 8000
 
 PORT= 8000
 
@@ -157,5 +156,6 @@ For production, configure the webhook URL in your Stripe Dashboard.
 ## License
 
 This project is open-source and available under the MIT License.#
+
 
 
