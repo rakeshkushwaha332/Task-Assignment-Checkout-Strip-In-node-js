@@ -1,5 +1,11 @@
 # MERN E-commerce Application
 
+Env Credential
+MONGO_URI=mongodb+srv://rakesh:MyPass123@cluster0.bt3rm.mongodb.net/myDatabase?retryWrites=true&w=majority
+STRIPE_WEBHOOK_SECRET=whsec_c30f187002723867aa286cfffd73f6dc92a6a9f3481783be1d50409667747482
+
+PORT= 8000
+
 A full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React, Node.js) with Stripe payment integration.
 
 ## Table of Contents
@@ -147,3 +153,4 @@ For production, configure the webhook URL in your Stripe Dashboard.
 ## License
 
 This project is open-source and available under the MIT License.#
+
